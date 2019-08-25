@@ -1,3 +1,8 @@
+#include <iostream>
+#include <vector>
+
+using namespace std;
+int i;
 
 
 int main() {
@@ -5,9 +10,12 @@ int main() {
     for (auto a : v) {
         for (auto i : a) {
             // imprimir i
+            cout << i;
         }
         // salto de linea
+        cout << "\n";
     }
+    return 0;
 }
 
 
