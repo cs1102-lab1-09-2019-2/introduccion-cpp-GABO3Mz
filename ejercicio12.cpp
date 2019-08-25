@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+#include <initializer_list>
+
 /*
  * Solamente incluir los header files que se requiren para hacer funcionar el programa
  */
